@@ -4,8 +4,8 @@
 2026年08月29日
 
 # ファイル
-+ inverter.sch  xschem 回路図<br>
-+ inverter.gds　klayout 図面
++ inverter.sch --- xschem 回路図
++ inverter.gds --- klayout 図面
 
 # 感想
 OSC大阪でISHI会に出逢ってから、やってみたいと思っていたところ<br>
