@@ -4,9 +4,9 @@
 2026年08月29日
 
 # Fail 説明
-+ inverter.sch ___ xschem 回路図
-+ inverter.gds ___ klayout 図面
-+ klayout.png ___ klayout 画面キャプチャ
++ inverter.sch ____ xschem 回路図
++ inverter.gds ____ klayout 図面
++ klayout.png ____ klayout 画面キャプチャ
 + xschem.pmg ___ xschem 画面キャプチャ
 
 # 感想
