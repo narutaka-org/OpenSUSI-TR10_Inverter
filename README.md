@@ -6,8 +6,8 @@
 # Fail 説明
 + inverter.sch ___ xschem 回路図
 + inverter.gds ___ klayout 図面
-+ klayout.png ____ klayout 画面キャプチャ
-+ xschem.pmg _____ xschem 画面キャプチャ
++ klayout.png ___ klayout 画面キャプチャ
++ xschem.pmg ___ xschem 画面キャプチャ
 
 # 感想
 OSC大阪でISHI会に出逢ってから、やってみたいと思っていたところ北陸編が開催されると聞いて参加してきました。<br>
