@@ -2,6 +2,7 @@
 
 初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：北陸編 <br>
 2026年08月29日
+![klayout Image](klayout.png)
 
 # Fail 説明
 + inverter.sch ____ xschem 回路図
