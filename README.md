@@ -32,3 +32,6 @@ DRCチェックもVLSチェックも講習時間内に無事通せて、初め�
 講習会の説明もとても丁寧で、層になっているところでどのようにNMOSが乗っていくかなどイメージをつかむことができた気がします。<br>
 チップ受け取りの会場によっては参加できないかもしれませんが、できれば会場で受け取って動作確認をしてみたいです。<br>
 よろしくお願いします。
+
+# 掲載先
+<a href="ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1_ichiken_04">ISHI-KAI_Multiple_Projects</a>
