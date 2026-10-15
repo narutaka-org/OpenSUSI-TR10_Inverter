@@ -22,7 +22,7 @@ OSC大阪でISHI会に出逢ってから、やってみたいと思っていた�
 + VcXsrv をインストールしなくてもWSL2はGUIがWindows側に表示される（驚いたというべきですね）
 <br>
 「xschem」の回路図の作図は、「BSch3V」以来何年ぶりだろうという感じでしたが、全体移動以外は直感的に触れてとてもスムーズに作業できました。<br>
-「klayout」による作図はちょっと癖があり色々と講師の方々にお手数をおかけしましたが、大昔のイラストレータより素直かなっといった感じでした。<br>
+「klayout」による作図はちょっと癖があり色々と講師の方々にお手数をおかけしましたが、大昔のAdobe「Illustrator」より素直かなっといった感じでした。<br>
 DRCチェックもVLSチェックも講習時間内に無事通せて、初めての作品を完成させることができました。<br>
 ありがとうございました。<br>
 
@@ -34,4 +34,4 @@ DRCチェックもVLSチェックも講習時間内に無事通せて、初め�
 よろしくお願いします。
 
 # 掲載先
-<a href="ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1_ichiken_04">ISHI-KAI_Multiple_Projects</a>
+<a>ISHI-KAI_Multiple_Projects</a>
